@@ -1,0 +1,10 @@
+.env
+.DS_Store
+.vscode
+.idea
+.pytest_cache
+.pytest_cache/*
+.pytest_cache/**/*
+.pytest_cache/**/**/*
+.pytest_cache/**/**/**/*
+.pytest_cache/**/**/**/**/*
