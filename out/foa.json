@@ -1,17 +1,19 @@
 {
-  "url": "https://grantsgovprod.wordpress.com/category/learngrants/grant-eligibility/",
-  "source": "unknown",
-  "title": "Grant Eligibility – Grants.gov Community Blog",
+  "url": "https://simpler.grants.gov/opportunity/77242ec4-56ad-4784-84ca-066b30d01fae",
+  "source": "grants.gov",
+  "title": "Opportunity Listing - Air Force Defense Research Sciences Conference and Workshop Support",
   "opportunity_number": null,
-  "agency": null,
+  "agency": ":",
   "cfda": null,
   "synopsis": null,
-  "description": "Posts about Grant Eligibility written by Grants.gov",
+  "description": "Read detailed information about this funding opportunity.",
   "posted_date": null,
   "closing_date": null,
-  "funding_instrument": null,
-  "eligibility": "requirements, then you cannot receive the grant funds.",
+  "funding_instrument": "s:",
+  "eligibility": null,
   "tags": [
-    "topic:unknown"
+    "audience:nonprofit",
+    "format:conference_workshop",
+    "source:grants_gov"
   ]
 }
